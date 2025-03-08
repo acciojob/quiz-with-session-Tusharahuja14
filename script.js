@@ -23,7 +23,7 @@ const questions = [
   {
     question: "Which is the largest planet in our solar system?",
     choices: ["Earth", "Jupiter", "Mars", "Venus"],
-    answer: "Jupiter",
+    answer: "Jupiter",  // Ensure this is the correct answer
   },
   {
     question: "What is the capital of Canada?",
